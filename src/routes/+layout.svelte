@@ -107,14 +107,11 @@
                 <slot />
             </div>
         {/key}
+        <small>Hecho por Angel Arteaga @2024</small>
     </section>
 </main>
 
 <style>
-    :root {
-        color-scheme: light dark;
-    }
-
     * {
         font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
         box-sizing: border-box;
@@ -125,8 +122,8 @@
     button {
         padding: 0.75rem 1rem;
         border-radius: 20px;
-        background: light-dark(white, black);
-        color: light-dark(#3c4043, #f1f3f4);
+        background: white;
+        color: #3c4043;
         border: none;
         cursor: pointer;
     }
@@ -139,7 +136,7 @@
             "menu content" auto/
             250px auto;
         overflow: hidden;
-        background: light-dark(#ffffff, #202124);
+        background: white;
     }
 
     aside {
@@ -151,7 +148,7 @@
         align-items: center;
         grid-area: menu;
         padding: 4rem 1rem;
-        background: light-dark(#f1f3f4, #3c4043);
+        background: #f1f3f4;
         border-radius: 15px;
         margin: 0.5rem 0.5rem;
         z-index: 100;
@@ -203,7 +200,7 @@
 
     a {
         text-decoration: none;
-        color: light-dark(#3c4043, #f1f3f4);
+        color: #3c4043;
     }
 
     section {
@@ -276,8 +273,8 @@
             width: 100%;
             border-radius: 5px;
             padding: 0.5rem 0.5rem;
-            background: light-dark(#f1f3f4, #3c4043);
-            color: light-dark(#3c4043, #f1f3f4);
+            background: #f1f3f4;
+            color: #3c4043;
             border: none;
             font-size: large;
         }

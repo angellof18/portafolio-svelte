@@ -103,6 +103,11 @@ export function TraslatePage() {
                         name: 'Next.js',
                         level: 'Principiante',
                         image: 'icons/next.webp'
+                    },
+                    {
+                        name: 'Svelte',
+                        level: 'Principiante',
+                        image: 'icons/svelte.webp'
                     }
                 ]
             },
@@ -215,6 +220,11 @@ export function TraslatePage() {
                         name: 'Next.js',
                         level: 'Beginner',
                         image: 'icons/next.webp'
+                    },
+                    {
+                        name: 'Svelte',
+                        level: 'Beginner',
+                        image: 'icons/svelte.webp'
                     }
                 ]
             },

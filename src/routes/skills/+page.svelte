@@ -56,7 +56,7 @@
         height: 20px;
         font-size: x-small;
         align-content: center;
-        background: light-dark(#a4a6a7, #34373a);
+        background: #a4a6a7;
         border-radius: 15px;
         padding: 0 0.75rem;
         grid-area: nivel;
@@ -71,7 +71,7 @@
         padding: 1rem 2rem;
         gap: 0 1rem;
         border-radius: 10px;
-        background: light-dark(#f1f3f4, #3c4043);
+        background: #f1f3f4;
     }
 
     @media (width<768px) {

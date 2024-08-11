@@ -47,7 +47,7 @@
 
     article {
         display: flex;
-        gap: 2rem;
+        gap: 1rem;
     }
 
     .github {
@@ -61,7 +61,7 @@
     .correo {
         align-self: center;
         text-decoration: underline;
-        color: light-dark(#004a77, white);
+        color: #004a77;
         font-weight: 500;
     }
 

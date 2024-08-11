@@ -75,7 +75,7 @@
     .field {
         display: flex;
         align-items: center;
-        background: light-dark(#f1f3f4, #3c4043);
+        background: #f1f3f4;
         padding: 1rem 1rem;
         border-radius: 10px;
         gap: 1rem;
@@ -91,7 +91,7 @@
         min-width: 100%;
         padding: 1rem 1rem;
         outline: none;
-        background: light-dark(#f1f3f4, #3c4043);
+        background: #f1f3f4;
         border-radius: 10px;
         border: none;
     }
@@ -107,7 +107,7 @@
 
     .input {
         flex-grow: 1;
-        background: light-dark(#f1f3f4, #3c4043);
+        background: #f1f3f4;
         border: none;
         outline: none;
         width: 100%;

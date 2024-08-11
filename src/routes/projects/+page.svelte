@@ -66,7 +66,7 @@
         align-content: center;
         font-size: small;
         border-radius: 5px;
-        background: light-dark(#a4a6a7, #34373a);
+        background: #a4a6a7;
         padding: 0 0.75rem;
     }
 
@@ -100,7 +100,7 @@
     }
 
     .repo {
-        color: light-dark(#004a77, white);
+        color: #004a77;
         font-weight: 500;
         text-decoration: underline;
     }
@@ -115,7 +115,7 @@
             "buttons" 50px /
             auto;
         border-radius: 10px;
-        background: light-dark(#f1f3f4, #3c4043);
+        background: #f1f3f4;
         padding: 1rem 1rem;
         gap: 1rem;
     }
