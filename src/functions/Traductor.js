@@ -53,6 +53,14 @@ export function TraslatePage() {
                         tags: ['Svelte', 'SvelteKit', 'CSS', 'HTML'],
                         repo: 'https://github.com/angellof18/todo-tasks-svelte',
                         web: 'https://todo-tasks-svelte.vercel.app/'
+                    },
+                    {
+                        title: 'PeokeAPI - Listado de Pokemons',
+                        description: 'Fetch a API publica de pokemon.',
+                        image: '/Projects/Pokeapi.webp',
+                        tags: ['Svelte', 'SvelteKit', 'HTML', 'CSS'],
+                        repo: 'https://github.com/angellof18/pokemon-tailwind',
+                        web: 'https://pokemon-tailwind-two.vercel.app'
                     }
                 ]
             },
@@ -170,6 +178,14 @@ export function TraslatePage() {
                         tags: ['Svelte', 'SvelteKit', 'CSS', 'HTML'],
                         repo: 'https://github.com/angellof18/todo-tasks-svelte',
                         web: 'https://todo-tasks-svelte.vercel.app/'
+                    },
+                    {
+                        title: 'PeokeAPI - List of Pokemons',
+                        description: 'Fetch pokemon public API.',
+                        image: '/Projects/Pokeapi.webp',
+                        tags: ['Svelte', 'SvelteKit', 'HTML', 'CSS'],
+                        repo: 'https://github.com/angellof18/pokemon-tailwind',
+                        web: 'https://pokemon-tailwind-two.vercel.app'
                     }
                 ]
             },
